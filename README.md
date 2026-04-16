@@ -123,24 +123,7 @@ Currently working on **AgriSmart**, an AI-powered agriculture assistance platfor
 - Farmer-first UX mindset  
 - Scalable backend architecture  
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=thomakepratik58&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomakepratik58&layout=compact&langs_count=8&theme=dark"
-  height="170"
-/>
-
-
----
 
 ## 💬 Ask Me About
 **Python • FastAPI • Backend APIs • ML basics • Databases • Git • Performance Optimization**
