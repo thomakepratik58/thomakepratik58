@@ -7,7 +7,7 @@
 Building scalable backend systems and intelligent ML-powered applications that solve real-world problems.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pratikthomake&color=0e75b6&style=flat-square)](https://github.com/pratikthomake)
-[![GitHub followers](https://img.shields.io/github/followers/pratikthomake?style=flat-square&logo=github)](https://github.com/pratikthomake58)
+[![GitHub followers](https://img.shields.io/github/followers/pratikthomake?style=flat-square&logo=github)](https://github.com/thomakepratik58)
 [![Email](https://img.shields.io/badge/Gmail-thomakepratik58%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Thomakepratik58@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pratikthomake.netlify.app-brightgreen?style=flat-square&logo=firefox)](https://pratikthomake.netlify.app/)
 
